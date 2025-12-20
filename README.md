@@ -30,7 +30,7 @@ The system detects whether motorcyclists are wearing helmets in images and video
 ## 🗂️ Project Structure
 
 ```bash
-helmet_docker/
+Helmet Detection/
 │
 ├── app.py # Main Flask application
 ├── app_test.py # Test script for the API
