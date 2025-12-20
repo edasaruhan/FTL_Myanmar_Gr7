@@ -8,7 +8,7 @@ import cv2  # Add OpenCV for video processing
 import numpy as np
 import subprocess
 
-
+ 
 app = Flask(__name__)
 
 # Configuration - ADD VIDEO EXTENSIONS
