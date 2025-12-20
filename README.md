@@ -5,17 +5,17 @@ The system detects whether motorcyclists are wearing helmets in images and video
 
 ## 📌 Features
 
-- ✅ Helmet detection using YOLOv8
+✅ Helmet detection using YOLOv8
 
-- ✅ Flask-based REST API
+✅ Flask-based REST API
 
-- ✅ Supports image and video uploads
+✅ Supports image and video uploads
 
-- ✅ Dockerized for easy deployment
+✅ Dockerized for easy deployment
 
-- ✅ Stores prediction results automatically
+✅ Stores prediction results automatically
 
-- ✅ Lightweight and deployment-ready
+✅ Lightweight and deployment-ready
 
 ## 🧠 Model
 
