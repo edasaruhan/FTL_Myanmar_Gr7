@@ -59,7 +59,7 @@ Helmet Detection/
 
 ```bash
 git clone https://github.com/your-username/helmet-detection.git
-cd helmet_docker
+cd "Helmet Detection"
 ```
 
 2️⃣ Create Virtual Environment (Optional)
