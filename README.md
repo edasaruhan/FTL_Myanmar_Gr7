@@ -25,7 +25,7 @@ The system detects whether motorcyclists are wearing helmets in images and video
 
 - Classes: Helmet / No Helmet
 
-- Framework: PyTorch
+- Framework: FlaskAPI
 
 ## 🗂️ Project Structure
 
