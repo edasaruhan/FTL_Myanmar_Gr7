@@ -25,7 +25,7 @@ The system detects whether motorcyclists are wearing helmets in images and video
 
 - Classes: Helmet / No Helmet
 
-- Framework: FlaskAPI
+- Framework: PyTorch
 
 ## 🗂️ Project Structure
 
@@ -75,7 +75,15 @@ source venv/bin/activate # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4️⃣ Run the Application
+4️⃣ Install FFmpeg
+
+```bash
+winget install "FFmpeg (Essentials Build)"
+```
+
+After installing restart the command prompt or PowerShell
+
+5️⃣ Run the Application
 
 ```bash
 python app.py
